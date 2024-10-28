@@ -14,6 +14,7 @@ export const GooBlobsPage = () => {
     xy: [0, 0],
     config: i === 0 ? fast : slow,
   }));
+  console.log(trail);
   const [ref, { left, top }] = useMeasure();
 
   const handleMouseMove: React.MouseEventHandler = (e) => {
