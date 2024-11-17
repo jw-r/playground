@@ -1,1 +1,1 @@
-export { default } from "@/app/features/react-spring/GooBlobsPage";
+export { default } from "@/features/react-spring/GooBlobsPage";

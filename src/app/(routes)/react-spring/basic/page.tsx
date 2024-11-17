@@ -1,1 +1,1 @@
-export { default } from "@/app/features/react-spring/BasicPage";
+export { default } from "@/features/react-spring/BasicPage";

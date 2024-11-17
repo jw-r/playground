@@ -1,1 +1,1 @@
-export { default } from "@/app/features/react-spring/NativeSlidePage";
+export { default } from "@/features/react-spring/NativeSlidePage";
